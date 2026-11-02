@@ -12,14 +12,15 @@ I'm a theoretical and computational community ecologist and an Assistant Profess
 | --- | --- |
 | [**BetaVolume**](https://github.com/clsong/BetaVolume) | Beta diversity from the geometric embedding of metacommunities · *Ecol. Monogr.* 2025 |
 | [**ecoModelOracle**](https://github.com/clsong/ecoModelOracle) | Rigorous validation of ecological models against empirical time series · *Nat. Ecol. Evol.* 2025 |
-| [**feasoverlap**](https://github.com/clsong/feasoverlap) | Overlap between two feasibility domains |
+| [**feasoverlap**](https://github.com/clsong/feasoverlap) | Overlap between two feasibility domains · *J. Theor. Biol.* 2018 |
 | [**topodetective**](https://github.com/clsong/topodetective) | Infer the topology of species interactions from abundance time series |
 | [**multispat**](https://github.com/clsong/multispat) | Simulate multivariate spatial point processes from pairwise species associations |
 | [**CoexistenceHoles.jl**](https://syntheticdynamics.github.io/CoexistenceHoles.jl) | Coexistence holes in assembly and disassembly · *Nat. Ecol. Evol.* 2021 |
 
 #### Teaching
 
-[**An Invitation to Physics for Biologists**](https://clsong.github.io/physics/): open lecture notes for UCLA EE BIOL 15.
+- [**An Invitation to Physics for Biologists**](https://clsong.github.io/physics/): open lecture notes for UCLA EE BIOL 15.
+- [**EE BIOL C177/C234**](https://clsong.github.io/EEB_C234/): open course notes on R, data wrangling, and visualization with ggplot2.
 
 #### Reproducible code for papers
 
