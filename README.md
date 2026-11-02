@@ -20,7 +20,7 @@ I'm a theoretical and computational community ecologist and an Assistant Profess
 #### Teaching
 
 - [**An Invitation to Physics for Biologists**](https://clsong.github.io/physics/): open lecture notes for UCLA EE BIOL 15.
-- [**EE BIOL C177/C234**](https://clsong.github.io/EEB_C234/): open course notes on R, data wrangling, and visualization with ggplot2.
+- [**Practical Computing for Evolutionary Biologists and Ecologists**](https://clsong.github.io/EEB_C234/): open course notes on R, data wrangling, and visualization with ggplot2.
 
 #### Reproducible code for papers
 
