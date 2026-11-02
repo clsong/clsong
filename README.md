@@ -2,7 +2,7 @@
 
 I'm a theoretical and computational community ecologist and an Assistant Professor in [Ecology & Evolutionary Biology at UCLA](https://www.eeb.ucla.edu/), where I lead the **[WEBS Group](https://www.clsong.com/)**. We study how biodiversity persists in a changing world, combining theory from statistical physics, dynamical systems, and information theory with field surveys, experiments, and global data.
 
-[Lab website](https://www.clsong.com/) · [Publications](https://www.clsong.com/publications/) · [Google Scholar](https://scholar.google.com/citations?user=WUAIMFMAAAAJ&hl=en) · [ORCID](https://orcid.org/0000-0001-7490-8626) · [X / Twitter](https://x.com/Chuliang_Song) · [Join the lab](https://www.clsong.com/opening/)
+[Lab website](https://www.clsong.com/) · [Publications](https://www.clsong.com/publications/) · [Google Scholar](https://scholar.google.com/citations?user=WUAIMFMAAAAJ&hl=en) · [ORCID](https://orcid.org/0000-0001-7490-8626)
 
 ---
 
