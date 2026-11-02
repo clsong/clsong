@@ -1,4 +1,4 @@
-### Hi, I'm Chuliang Song 👋
+### Hi, I'm Chuliang Song
 
 I'm a theoretical and computational community ecologist and an Assistant Professor in [Ecology & Evolutionary Biology at UCLA](https://www.eeb.ucla.edu/), where I lead the **[WEBS Group](https://www.clsong.com/)**. We study how biodiversity persists in a changing world, combining theory from statistical physics, dynamical systems, and information theory with field surveys, experiments, and global data.
 
@@ -6,7 +6,7 @@ I'm a theoretical and computational community ecologist and an Assistant Profess
 
 ---
 
-#### 🧰 Tools
+#### Tools
 
 | Package | What it does |
 | --- | --- |
@@ -17,11 +17,11 @@ I'm a theoretical and computational community ecologist and an Assistant Profess
 | [**multispat**](https://github.com/clsong/multispat) | Simulate multivariate spatial point processes from pairwise species associations |
 | [**CoexistenceHoles.jl**](https://syntheticdynamics.github.io/CoexistenceHoles.jl) | Coexistence holes in assembly and disassembly · *Nat. Ecol. Evol.* 2021 |
 
-#### 📚 Teaching
+#### Teaching
 
 [**An Invitation to Physics for Biologists**](https://clsong.github.io/physics/): open lecture notes for UCLA EE BIOL 15.
 
-#### 🔁 Reproducible code for papers
+#### Reproducible code for papers
 
 <details>
 <summary>Click to expand (2017–present)</summary>
